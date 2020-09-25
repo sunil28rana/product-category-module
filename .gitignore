@@ -1,5 +1,8 @@
 # Configuration ile
 .env
+.env.development
+.env.test
+.env.production
 
 # Node Dependencies
 node_modules/
