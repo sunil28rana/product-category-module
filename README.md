@@ -1,6 +1,6 @@
 # product-category-module
 
-This is a demo application built using Express.js Node.js MongoDB
+This is a demo application built using Express.js Node.js MongoDB TypeScript
 
 ## Install
 
