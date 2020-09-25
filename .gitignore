@@ -1,0 +1,6 @@
+# Configuration ile
+.env
+
+# Node Dependencies
+node_modules/
+build/
